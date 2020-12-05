@@ -1,0 +1,14 @@
+INFO: 2020/12/05 11:53:34 Main.go:32: Hello world
+INFO: 2020/12/05 11:54:56 Main.go:32: Hello world
+INFO: 2020/12/05 11:55:29 Main.go:32: Hello world
+INFO: 2020/12/05 11:55:29 Main.go:42: parseCsv. file opened:
+INFO: 2020/12/05 11:55:29 Main.go:49: parseCsv. lineCount: 3
+INFO: 2020/12/05 11:57:59 Hello world
+INFO: 2020/12/05 11:57:59 parseCsv. file opened:
+INFO: 2020/12/05 11:57:59 parseCsv. lineCount: 3
+INFO: 2020/12/05 12:00:16 Hello world
+INFO: 2020/12/05 12:00:16 parseCsv. file opened:
+INFO: 2020/12/05 12:00:16 parseCsv. lineCount: 3
+INFO: 2020/12/05 12:00:16 line1 0
+INFO: 2020/12/05 12:00:16 line1 2
+INFO: 2020/12/05 12:00:16 line1 4
